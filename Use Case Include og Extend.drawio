@@ -1,0 +1,109 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.1.2 Chrome/138.0.7204.243 Electron/37.4.0 Safari/537.36" version="28.1.2">
+  <diagram name="Page-1" id="Hpm7kt9YforW93FYDD2v">
+    <mxGraphModel dx="1403" dy="2139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-12" value="Administrator" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-13" value="Teacher" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="320" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-14" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="140" y="490" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-15" value="Manage Student Accounts" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="309" y="120" width="210" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-16" value="View all courses&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="220" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-17" value="View Endroled Courses&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="360" y="310" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-18" value="Enroll in Course&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="370" y="440" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-19" value="View Course list" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="620" y="430" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-20" value="Modify Timetable" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="350" y="610" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-21" value="View timetable&amp;nbsp;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="600" y="530" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-22" value="Pay Semester fee" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="720" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-26" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="XKIXHQ07BTnOOBrHAsZw-15" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="150" y="180" as="sourcePoint" />
+            <mxPoint x="200" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-27" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="XKIXHQ07BTnOOBrHAsZw-16" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="200" as="sourcePoint" />
+            <mxPoint x="319" y="175" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-28" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="XKIXHQ07BTnOOBrHAsZw-17" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="347.5" as="sourcePoint" />
+            <mxPoint x="340" y="352.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-30" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="XKIXHQ07BTnOOBrHAsZw-18" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="521.25" as="sourcePoint" />
+            <mxPoint x="350" y="518.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-32" value="&amp;lt;&amp;lt;include&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.029;entryY=0.614;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="XKIXHQ07BTnOOBrHAsZw-19" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="510" y="474.5" as="sourcePoint" />
+            <mxPoint x="590" y="474.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-33" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.007;entryY=0.4;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="XKIXHQ07BTnOOBrHAsZw-21" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="542.5" as="sourcePoint" />
+            <mxPoint x="350" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" parent="1" target="XKIXHQ07BTnOOBrHAsZw-20" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="552.25" as="sourcePoint" />
+            <mxPoint x="377.98" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-35" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.086;entryY=0.186;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="XKIXHQ07BTnOOBrHAsZw-14" target="XKIXHQ07BTnOOBrHAsZw-22" edge="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="119" y="632.5" as="sourcePoint" />
+            <mxPoint x="309" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-37" value="Paysystem" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
+          <mxGeometry x="640" y="700" width="70" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-39" value="&amp;lt;&amp;lt;Iinclude&amp;gt;&amp;gt;" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0.529;entryY=0.611;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="XKIXHQ07BTnOOBrHAsZw-37" edge="1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="480" y="754.5" as="sourcePoint" />
+            <mxPoint x="560" y="754.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XKIXHQ07BTnOOBrHAsZw-41" value="&amp;lt;&amp;lt;Extent&amp;gt;&amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;entryX=0.336;entryY=0.957;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="XKIXHQ07BTnOOBrHAsZw-21" edge="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="490" y="644.5" as="sourcePoint" />
+            <mxPoint x="650" y="644.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ArmZcm3jA83wE_jutlw5-1" value="&lt;span data-teams=&quot;true&quot;&gt;&lt;p&gt;Dere har fått i oppgave å lage et system for å la studenter melde seg på fag, håndtere timeplan og utføre betaling av semesteravgift. Forelesere og&lt;/p&gt;&lt;p&gt;&amp;nbsp;administrativt personell skal også ha tilgang til dette systemet&lt;br&gt;&lt;strong&gt;Requirements&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Påmelding: Systemet skal la registrerte studenter kunne melde seg på fag&amp;nbsp;&lt;/li&gt;&lt;li&gt;Timeplan: Systemet skal la studenter kunne se og modifisere timeplanen sin&lt;/li&gt;&lt;li&gt;Semesteravgift: Systemet skal la studenter kunne betale semesteravgift&lt;/li&gt;&lt;li&gt;Fag-administrering: Forelesere skal kunne se påmeldte studenter til fagene sine&lt;/li&gt;&lt;li&gt;Administrator-rettigheter: Administratorer skal kunne håndtere student-kontoer og se liste over alle fag&lt;/li&gt;&lt;/ul&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="-7" width="800" height="180" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
